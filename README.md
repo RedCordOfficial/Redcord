@@ -13,8 +13,3 @@ Main features:
 
 • Much better privacy, since Discord has no access to your system
 
-
-Make sure to join the Discord! For Sneak Peeks of Updates and ETC!
-
-• https://discord.gg/SsdQYQKVYr
-

@@ -9,7 +9,7 @@ Main features:
 
 • Much more lightweight and faster than the official Discord app
 
-• Linux Screenshare with sound & wayland
+• Custom Sound Effects
 
 • Much better privacy, since Discord has no access to your system
 

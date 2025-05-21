@@ -4,6 +4,9 @@ Redcord is a custom Discord App aiming to give you better performance and improv
 Main features:
 
 Vencord preinstalled
+
 Much more lightweight and faster than the official Discord app
+
 Linux Screenshare with sound & wayland
+
 Much better privacy, since Discord has no access to your system
